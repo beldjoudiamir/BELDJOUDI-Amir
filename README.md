@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/beldjoudiamir">
-  <img widht="40%" src="https://github.com/beldjoudiamir"/>
 </div>
   
 ### Langages
